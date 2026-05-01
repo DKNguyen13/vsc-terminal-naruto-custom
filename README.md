@@ -56,7 +56,8 @@ Add this into `settings.json`:
 ```json
 "vscode_custom_css.imports": [
     "file:///.../naruto-style.css"
-]```
+]
+```
 
 ---
 
