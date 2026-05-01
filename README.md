@@ -30,7 +30,11 @@ It is designed for developers who want a more **immersive coding experience** wi
 
 ## 📸 Preview
 
-> Add screenshot here (before / after terminal UI)
+<img width="1555" height="291" alt="image" src="https://github.com/user-attachments/assets/672d7971-2498-4364-b3ca-064c74aadaa5" />
+
+<img width="1563" height="312" alt="image" src="https://github.com/user-attachments/assets/a3cfed46-6f14-4388-be61-515c9dc378f7" />
+
+<img width="1554" height="171" alt="image" src="https://github.com/user-attachments/assets/e556b842-884d-42f3-bc35-903ec36f1b40" />
 
 ---
 
@@ -89,7 +93,8 @@ data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...
 ```
 :root {
     --team-7-chibi: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...");
-}```
+}
+```
 
 #### ✅ Result
 - No need for local image files
